@@ -1,8 +1,8 @@
 <div style="text-align: center;">
     <img width="100%" src="https://github.com/k33m0l/k33m0l/blob/main/hey.gif">
 </div>
-<h1 align="center">Hey! I'm <strong><i>k33m0l</i></strong>,</h1>
-<h6 align="right">and have no idea how to pronounce my name 😄</h6>
+<h1 align="center">Hey! I'm <strong><i>Amolnaut</i></strong>,</h1>
+<h6 align="right">or Keemol and have no idea how to pronounce it 😄</h6>
 
 <h2 align="center">🧠 Stuff I know 🧠</h2>
 <div>
